@@ -1,0 +1,23 @@
+header {
+    justify-content: center;
+    align-items: center;
+}
+nav {
+    justify-content: space-between;
+    align-items: center;
+}
+main {
+    flex-grow: 1;
+    justify-content: center;
+    align-items: center;
+}
+main div {
+    flex-basis: 50%;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid black;
+}
+footer {
+    justify-content: space-between;
+    align-items: center;
+}

@@ -1,0 +1,10 @@
+@media (max-width: 768px) {
+    .container {
+        grid-template-areas: 
+        "header"
+        "content" 
+        "sidebar"
+        "footer";
+        grid-template-columns: 1fr;
+}
+}
