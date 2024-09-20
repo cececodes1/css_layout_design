@@ -17,8 +17,8 @@ This project is divided into two parts: one using **CSS Flexbox** and the other 
 ### Task 1: Basic Flexbox Layout
 
 - **Header:** Contains a background image and centered, bold header text with contrasting color.
-- **Navigation Menu:** Includes at least 3 items (e.g., Home, Profile, About), arranged horizontally.
-- **Main Content:** Includes at least 2 vertically stacked content sections.
+- **Navigation Menu:** Includes 3 items (e.g., Home, Profile, About), arranged horizontally.
+- **Main Content:** Includes 2 vertically stacked content sections.
 - **Footer:** Contains 3 horizontally arranged sections (e.g., Contact Us, Events, Blog).
 
 **Expected Outcome:**  
